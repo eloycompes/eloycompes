@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 I’m currently learning web app development.
+
+> Working on it...
 
 <!--
 **eloycompes/eloycompes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
